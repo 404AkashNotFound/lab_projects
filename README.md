@@ -29,5 +29,3 @@ This repository contains coursework for the AD Lab, including various projects a
 ### 7. Open Ended - Farmer Chatbot
 - An AI-powered chatbot for farmers using Dhenu AI API, supporting multi-language and voice input
 - Built with a simple HTML & CSS frontend and a Python backend.
-
-**Maintained by:** [Ashmit Dutta](https://github.com/ByteBit0)
